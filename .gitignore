@@ -1,0 +1,12 @@
+# Object files
+*.o
+
+# Executables
+*.out
+
+
+
+# no longer used code
+Dead_Code/
+Pieces/temp_driver.c
+Pieces/makefile

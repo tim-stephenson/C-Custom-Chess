@@ -1,0 +1,9 @@
+P
+White Pawn
+Movement:
+Movements list: {-1,0}
+Attacks:
+Movements list: {-1,-1 , -1,1}
+First Moves:
+Movements list: {-1,0 , -2,0}
+Transformations list:{Q,B,R,N}

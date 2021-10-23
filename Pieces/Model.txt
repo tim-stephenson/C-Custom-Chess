@@ -1,0 +1,27 @@
+identifier, single char
+propername
+Movement:
+Movements list: { <insert movements_lst here> }
+// (ie: {} or {-1,0} or { 1,2    ,2,1     ,-1,2      ,2,-1}  ) spaces will be ignoreed, must be included even if empty
+// for each of these bellow, include them if you want them to be true, write nothing if you don't want it to be true
+// for those included, they must be in proper orderu
+up
+down
+left
+right
+up_left
+up_right
+down_left
+down_right
+Attacks:
+// include if differnt than Movement: , will be same as Movement: if not included
+First Moves:
+// include if differnt than Movement: , will be same as Movement: if not included
+Transformations list: { <insert transformations list here> }
+//ie {}  or  {Q,B,R} // much be included even if empty
+// put only the single char identifier for each Transformation
+// all these transformations occur when a piece reach "the other side"
+// bellow phrases are to be included if true, exlcuded if false
+jump_over
+attack_again
+

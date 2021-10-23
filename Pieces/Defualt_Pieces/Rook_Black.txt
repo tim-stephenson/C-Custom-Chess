@@ -1,0 +1,9 @@
+r
+Black Rook
+Movement:
+Movements list:{}
+up
+down
+left
+right
+Transformations list:{}

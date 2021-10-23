@@ -1,0 +1,9 @@
+b
+Black Bishop
+Movement:
+Movements list:{}
+up_left
+up_right
+down_left
+down_right
+Transformations list:{}

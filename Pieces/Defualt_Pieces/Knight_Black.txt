@@ -1,0 +1,5 @@
+n
+Black Knight
+Movement:
+Movements list: {  2,1 , 2,-1  ,  -2,1  ,  -2,-1  ,   1,2  ,  1,-2  ,  -1,2  ,  -1,-2  }
+Transformations list:{}

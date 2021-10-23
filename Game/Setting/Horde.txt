@@ -1,0 +1,13 @@
+8 8
+Pieces/Defualt_Pieces/
+Bishop_Black.txt King_Black.txt Knight_Black.txt Pawn_Black.txt Pawn_White.txt Queen_Black.txt Rook_Black.txt END
+k
+NONE
+r n b q k b n r
+p p p p p p p p
+# # # # # # # #
+# P P # # P P #
+P P P P P P P P
+P P P P P P P P
+P P P P P P P P
+P P P P P P P P

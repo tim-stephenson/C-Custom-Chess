@@ -1,0 +1,14 @@
+<height of board> <width of board>
+<directory to find all pieces in> (NOT Chess/Game/Settings)ie: Pieces/Defualt_Pieces
+Pieces: <location of piece1> <location of piece2> END ie: Bishop_Black.txt Bishop_White.txt King_Black.txt King_White.txt END or simply the word: WHOLEDIR all uppercase for everything in directory specified above
+<white win condition>: white must kill all of this type of blacks piece to win ie: k (for black king) NONE for all opponate pieces must die
+<black win condition>: black must kill all of this type of whites piece to win ie: K (for white king) NONE for all opponate pieces must die
+<Actual grid going over where pieces start> (empty space being the # character, and spaces between all pieces) ie:
+r n b q k b n r
+p p p p p p p p
+# # # # # # # #
+# # # # # # # #
+# # # # # # # #
+# # # # # # # #
+P P P P P P P P
+R N B Q K B N R
