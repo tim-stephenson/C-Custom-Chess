@@ -28,3 +28,15 @@ discussed in the header file Game/game.h:
 
 //all notation was taken from:
 // https://en.wikipedia.org/wiki/Algebraic_notation_(chess)
+
+
+Current Limitations (things I want to add when I get the chance):
+Pawn Promotion
+Castling
+Deciding who won (or tie)
+Preventing player from suiciding their king
+Visual display (besides text in terminal)
+better input method (besides typing in moves)
+Evauluation function (with minmax for a given depth) to determine which player is doing better for a given game state
+Computer player
+
