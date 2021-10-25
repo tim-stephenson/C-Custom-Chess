@@ -22,6 +22,8 @@
 
 #include "../List/List.h"
 
+const char GameSettings[100] = "Game/Setting/Defualt.txt";
+
 const unsigned max_input_len = 50;
 
 const unsigned view_length = 1000;
@@ -110,8 +112,7 @@ void controller( char* (*view)(void*) ,  void* (*respond)(void* , char*) , void 
 
 int main(void){
 
-    // FILE *fp = fopen("Game/Setting/Horde.txt", "r");
-    FILE *fp = fopen("Game/Setting/Defualt.txt", "r");
+    FILE *fp = fopen(GameSettings, "r");
 
     game *g = Game_New(fp);
     fclose(fp);
